@@ -65,6 +65,10 @@ python main.py
 * Extracted data is stored in the `data/` directory
 * Output format: CSV
 
+## Sample Output
+
+![Output](output.png)
+
 ---
 
 ## Notes
